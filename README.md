@@ -1,4 +1,4 @@
-# fuck you
+# Tic-Tac-Toe using C++
 
-new edit
-i changed some things in my branch look
+We will try to create a Tic-Tac-Toe project using C++. 
+We might also add a UI. 
